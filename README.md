@@ -1,5 +1,5 @@
 <h1 align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Iosevka&weight=800&size=35&pause=1000&color=F7BA27&background=271414&center=true&vCenter=true&width=435&lines=Hello+There!;I'm+Erick+Lopez;Cloud+Security+%26+Automation+Engineer" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Iosevka&weight=900&size=40&pause=1000&color=7D52DF&background=27141400&center=true&vCenter=true&width=720&height=80&lines=Hello+There!;I'm+Erick+Lopez;Cloud+Security+%26+Automation+Engineer" alt="Typing SVG" />
 </h1>
 
 <h3 align="center">A passionate Cloud Security and Automation from Peru 🇵🇪</h3>
@@ -16,10 +16,10 @@
   <a href="mailto:ericklopez.dev@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
   </a>
-  <a href="https://www.linkedin.com/in/ericklopezdev/" target="_blank">
+  <a href="https://www.linkedin.com/in/erick-valentino-lopez-campos/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="https://github.com/ericklopez" target="_blank">
+  <a href="https://github.com/ErickLopezDev" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
   </a>
 </div>
@@ -32,8 +32,8 @@
 
 ## 🧩 About Me
 
-> Systems Engineer focused on **Cloud Infrastructure**, **Automation**, and **Security**.  
-> Passionate about building **reliable**, **scalable**, and **well-architected** systems.  
+Systems Engineer focused on **Cloud Infrastructure**, **Automation**, and **Security**.  
+Passionate about building **reliable**, **scalable**, and **well-architected** systems.  
 > I aim to enhance processes through **Infrastructure as Code**, automate **CI/CD pipelines**,  
 > and strengthen **Cloud Security** and **Data Reliability** across deployments.  
 
@@ -56,7 +56,7 @@
 ## 🧠 Core Skills
 
 <p align="center">
-  <a href="https://github.com/ericklopez">
+  <a href="https://github.com/ErickLopezDev">
     <img src="https://skillicons.dev/icons?i=aws,terraform,ansible,docker,kubernetes,linux,bash,git,githubactions,prometheus,grafana" alt="Cloud & DevOps Tools" />
   </a>
 </p>
@@ -66,7 +66,7 @@
 ## 💻 Development
 
 <p align="center">
-  <a href="https://github.com/ericklopez">
+  <a href="https://github.com/ErickLopezDev">
     <img src="https://skillicons.dev/icons?i=python,go,typescript,nodejs,mysql,postgres,mongodb,redis,vscode,neovim" alt="Programming & Data Tools" />
   </a>
 </p>
