@@ -1,8 +1,8 @@
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=600&height=70&duration=4000&lines=Hello+There!+👋;+I'm+Erick+Lopez!;+Cloud+Engineer+☁️" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Iosevka&weight=800&size=35&pause=1000&color=F7BA27&background=271414&center=true&vCenter=true&width=435&lines=Hello+There!;I'm+Erick+Lopez;Cloud+Security+%26+Automation+Engineer" alt="Typing SVG" />
 </h1>
 
-<h3 align="center">A passionate Cloud, DevOps, and Data Engineer from Peru 🇵🇪</h3>
+<h3 align="center">A passionate Cloud Security and Automation from Peru 🇵🇪</h3>
 
 * ☁️ Focused on **Cloud Architecture**, **Automation**, and **Security**.  
 * ⚙️ Experienced in building **scalable**, **secure**, and **resilient** systems.  
