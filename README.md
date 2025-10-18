@@ -1,5 +1,5 @@
 <h1 align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Iosevka&weight=900&size=40&pause=1000&color=7D52DF&background=27141400&center=true&vCenter=true&width=720&height=80&lines=Hello+There!;I'm+Erick+Lopez;Cloud+Security+%26+Automation+Engineer" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Iosevka&weight=900&size=40&pause=1000&color=7D52DF&background=27141400&center=true&vCenter=true&width=720&height=80&lines=Hello+There!;I'm+Erick+López;Cloud+Security+%26+Automation+Engineer" alt="Typing SVG" />
 </h1>
 
 <h3 align="center">A passionate Cloud Security and Automation from Peru 🇵🇪</h3>
@@ -34,8 +34,8 @@
 
 Systems Engineer focused on **Cloud Infrastructure**, **Automation**, and **Security**.  
 Passionate about building **reliable**, **scalable**, and **well-architected** systems.  
-> I aim to enhance processes through **Infrastructure as Code**, automate **CI/CD pipelines**,  
-> and strengthen **Cloud Security** and **Data Reliability** across deployments.  
+I aim to enhance processes through **Infrastructure as Code**, automate **CI/CD pipelines**,  
+and strengthen **Cloud Security** and **Data Reliability** across deployments.  
 
 </td>
 <td width="50%" valign="top">
