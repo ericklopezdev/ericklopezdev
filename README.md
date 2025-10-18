@@ -1,4 +1,16 @@
 <h1 align="center">
+  <pre style="background-color: transparent; color:auto; font-family:'Fira Code', monospace; font-size:18px; border-radius:12px; padding:20px; display:inline-block; text-align:left;">
+███████╗██████╗ ██╗ ██████╗██╗  ██╗    ██╗      ██████╗ ██████╗ ███████╗███████╗
+██╔════╝██╔══██╗██║██╔════╝██║ ██╔╝    ██║     ██╔═══██╗██╔══██╗██╔════╝╚══███╔╝
+█████╗  ██████╔╝██║██║     █████╔╝     ██║     ██║   ██║██████╔╝█████╗    ███╔╝ 
+██╔══╝  ██╔══██╗██║██║     ██╔═██╗     ██║     ██║   ██║██╔═══╝ ██╔══╝   ███╔╝  
+███████╗██║  ██║██║╚██████╗██║  ██╗    ███████╗╚██████╔╝██║     ███████╗███████╗
+╚══════╝╚═╝  ╚═╝╚═╝ ╚═════╝╚═╝  ╚═╝    ╚══════╝ ╚═════╝ ╚═╝     ╚══════╝╚══════╝
+                                                                                
+  </pre>
+</h1>
+
+<h1 align="center">
 <img src="https://readme-typing-svg.herokuapp.com?font=Iosevka&weight=900&size=40&pause=1000&color=7D52DF&background=27141400&center=true&vCenter=true&width=720&height=80&lines=Hello+There!;I'm+Erick+López;Cloud+Security+%26+Automation+Engineer" alt="Typing SVG" />
 </h1>
 
