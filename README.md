@@ -4,14 +4,14 @@
 
 <h3 align="center">A passionate Cloud Security and Automation from Peru 🇵🇪</h3>
 
-* ☁️ Focused on **Cloud Architecture**, **Automation**, and **Security**.  
-* ⚙️ Experienced in building **scalable**, **secure**, and **resilient** systems.  
-* 🚀 Passionate about **CI/CD pipelines**, **Infrastructure as Code**, and **Data Automation**.  
-* 🎯 Continuously learning about **Kubernetes**, **AWS**, **Azure**, **GCP**, and **modern data pipelines**.  
+* Focused on **Cloud Architecture**, **Automation**, and **Security**.  
+* Experienced in building **scalable**, **secure**, and **resilient** systems.  
+* Passionate about **CI/CD pipelines**, **Infrastructure as Code**, and **Data Automation**.  
+* Continuously learning about **Kubernetes**, **AWS**, **Azure**, **GCP**, and **modern data pipelines**.  
 
 ---
 
-## 🌐 Connect with me
+## Connect with me
 <div align="center"> 
   <a href="mailto:ericklopez.dev@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
@@ -30,7 +30,7 @@
 <tr>
 <td width="50%" valign="top">
 
-## 🧩 About Me
+## About Me
 
 Systems Engineer focused on **Cloud Infrastructure**, **Automation**, and **Security**.  
 Passionate about building **reliable**, **scalable**, and **well-architected** systems.  
@@ -41,11 +41,10 @@ and strengthen **Cloud Security** and **Data Reliability** across deployments.
 <td width="50%" valign="top">
 
 ## 🎓 Certifications
-- ☁️ **AWS Certified Cloud Practitioner** *(in progress)*  
-- 🛠️ **HashiCorp Terraform Associate** *(planned)*  
-- 🧠 **Google Cloud Digital Leader** *(planned)*  
-- 🔐 **Microsoft AZ-900: Fundamentals** *(planned)*  
-- 🧩 **Linux Foundation Certified System Administrator (LFCS)** *(in progress)*  
+- **AWS Certified Cloud Practitioner** *(in progress)*  
+- **HashiCorp Terraform Associate** *(planned)*  
+- **Microsoft AZ-900: Fundamentals** *(planned)*  
+- **Linux Foundation Certified System Administrator (LFCS)** *(in progress)*  
 
 </td>
 </tr>
@@ -53,7 +52,7 @@ and strengthen **Cloud Security** and **Data Reliability** across deployments.
 
 ---
 
-## 🧠 Core Skills
+## Core Skills
 
 <p align="center">
   <a href="https://github.com/ErickLopezDev">
@@ -63,11 +62,11 @@ and strengthen **Cloud Security** and **Data Reliability** across deployments.
 
 ---
 
-## 💻 Development
+## Development
 
 <p align="center">
   <a href="https://github.com/ErickLopezDev">
-    <img src="https://skillicons.dev/icons?i=python,go,typescript,nodejs,mysql,postgres,mongodb,redis,vscode,neovim" alt="Programming & Data Tools" />
+    <img src="https://skillicons.dev/icons?i=dotnet,python,go,typescript,nodejs,mysql,postgres,mongodb,redis,vscode,neovim" alt="Programming & Data Tools" />
   </a>
 </p>
 
