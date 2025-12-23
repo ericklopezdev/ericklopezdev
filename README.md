@@ -52,23 +52,50 @@ and strengthen **Cloud Security** and **Data Reliability** across deployments.
 
 ---
 
-## Core Skills
+## Skills
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### Observability
 
 <p align="center">
   <a href="https://github.com/ErickLopezDev">
-    <img src="https://skillicons.dev/icons?i=aws,terraform,ansible,docker,kubernetes,linux,bash,git,githubactions,prometheus,grafana" alt="Cloud & DevOps Tools" />
+    <img src="https://skillicons.dev/icons?i=prometheus,grafana" alt="Observability Tools" />
   </a>
 </p>
 
----
-
-## Development
+### Languages & Development
 
 <p align="center">
   <a href="https://github.com/ErickLopezDev">
-    <img src="https://skillicons.dev/icons?i=dotnet,python,go,typescript,nodejs,mysql,postgres,mongodb,redis,vscode,neovim" alt="Programming & Data Tools" />
+    <img src="https://skillicons.dev/icons?i=dotnet,python,go,typescript,nodejs" alt="Programming Languages & Frameworks" />
   </a>
 </p>
+
+</td>
+<td width="50%" valign="top">
+
+### Services
+
+<p align="center">
+  <a href="https://github.com/ErickLopezDev">
+    <img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb,redis" alt="Databases & Services" />
+  </a>
+</p>
+
+### Tools
+
+<p align="center">
+  <a href="https://github.com/ErickLopezDev">
+    <img src="https://skillicons.dev/icons?i=aws,terraform,ansible,docker,kubernetes,linux,bash,git,githubactions,vscode,neovim" alt="Cloud & DevOps Tools" />
+  </a>
+</p>
+
+</td>
+</tr>
+</table>
 
 ---
 
