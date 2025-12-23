@@ -1,17 +1,17 @@
 <h1 align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Iosevka&weight=900&size=40&pause=1000&color=7D52DF&background=27141400&center=true&vCenter=true&width=720&height=80&lines=Hello+There!;I'm+Erick+López;Cloud+Security+%26+Automation+Engineer" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Iosevka&weight=900&size=40&pause=1000&color=7D52DF&background=27141400&center=true&vCenter=true&width=720&height=80&lines=¡Hola!;Soy+Erick+López;Ingeniero+de+Seguridad+en+la+Nube+y+Automatización" alt="Typing SVG" />
 </h1>
 
-<h3 align="center">A passionate Cloud Security and Automation from Peru 🇵🇪</h3>
+<h3 align="center">Un apasionado de la Seguridad en la Nube y Automatización de Perú 🇵🇪</h3>
 
-* Focused on **Cloud Architecture**, **Automation**, and **Security**.  
-* Experienced in building **scalable**, **secure**, and **resilient** systems.  
-* Passionate about **CI/CD pipelines**, **Infrastructure as Code**, and **Data Automation**.  
-* Continuously learning about **Kubernetes**, **AWS**, **Azure**, **GCP**, and **modern data pipelines**.  
+* Enfocado en **Arquitectura en la Nube**, **Automatización** y **Seguridad**.  
+* Experimentado en la construcción de sistemas **escalables**, **seguros** y **resistentes**.  
+* Apasionado por **pipelines CI/CD**, **Infraestructura como Código** y **Automatización de Datos**.  
+* Aprendiendo continuamente sobre **Kubernetes**, **AWS**, **Azure**, **GCP** y **pipelines de datos modernos**.  
 
 ---
 
-## Connect with me
+## Conéctate conmigo
 <div align="center"> 
   <a href="mailto:ericklopez.dev@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
@@ -30,21 +30,21 @@
 <tr>
 <td width="50%" valign="top">
 
-## About Me
+## Sobre mí
 
-Systems Engineer focused on **Cloud Infrastructure**, **Automation**, and **Security**.  
-Passionate about building **reliable**, **scalable**, and **well-architected** systems.  
-I aim to enhance processes through **Infrastructure as Code**, automate **CI/CD pipelines**,  
-and strengthen **Cloud Security** and **Data Reliability** across deployments.  
+Ingeniero de Sistemas enfocado en **Infraestructura en la Nube**, **Automatización** y **Seguridad**.  
+Apasionado por construir sistemas **confiables**, **escalables** y **bien arquitectados**.  
+Mi objetivo es mejorar procesos mediante **Infraestructura como Código**, automatizar **pipelines CI/CD**,  
+y fortalecer la **Seguridad en la Nube** y la **Confiabilidad de Datos** en todas las implementaciones.  
 
 </td>
 <td width="50%" valign="top">
 
-## 🎓 Certifications
-- **AWS Certified Cloud Practitioner** *(in progress)*  
-- **HashiCorp Terraform Associate** *(planned)*  
-- **Microsoft AZ-900: Fundamentals** *(planned)*  
-- **Linux Foundation Certified System Administrator (LFCS)** *(in progress)*  
+## 🎓 Certificaciones
+- **AWS Certified Cloud Practitioner** *(en progreso)*  
+- **HashiCorp Terraform Associate** *(planeado)*  
+- **Microsoft AZ-900: Fundamentals** *(planeado)*  
+- **Linux Foundation Certified System Administrator (LFCS)** *(en progreso)*  
 
 </td>
 </tr>
@@ -52,44 +52,44 @@ and strengthen **Cloud Security** and **Data Reliability** across deployments.
 
 ---
 
-## Skills
+## Habilidades
 
 <table>
 <tr>
 <td width="50%" valign="top">
 
-### Observability
+### Observabilidad
 
 <p align="center">
   <a href="https://github.com/ErickLopezDev">
-    <img src="https://skillicons.dev/icons?i=prometheus,grafana" alt="Observability Tools" />
+    <img src="https://skillicons.dev/icons?i=prometheus,grafana" alt="Herramientas de Observabilidad" />
   </a>
 </p>
 
-### Persistency
+### Bases de Datos
 
 <p align="center">
   <a href="https://github.com/ErickLopezDev">
-    <img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb,redis" alt="Databases & Services" />
+    <img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb,redis" alt="Bases de Datos y Servicios" />
   </a>
 </p>
 
-### Infrastructure
+### Infraestructura
 
 <p align="center">
   <a href="https://github.com/ErickLopezDev">
-    <img src="https://skillicons.dev/icons?i=terraform,ansible" alt="Infrastructure Tools" />
+    <img src="https://skillicons.dev/icons?i=terraform,ansible,aws" alt="Herramientas de Infraestructura" />
   </a>
 </p>
 
 </td>
 <td width="50%" valign="top">
 
-### Containerization
+### Contenedorización
 
 <p align="center">
   <a href="https://github.com/ErickLopezDev">
-    <img src="https://skillicons.dev/icons?i=docker,kubernetes" alt="Containerization Tools" />
+    <img src="https://skillicons.dev/icons?i=docker,kubernetes" alt="Herramientas de Contenedorización" />
   </a>
 </p>
 
@@ -97,23 +97,32 @@ and strengthen **Cloud Security** and **Data Reliability** across deployments.
 
 <p align="center">
   <a href="https://github.com/ErickLopezDev">
-    <img src="https://skillicons.dev/icons?i=git,githubactions" alt="CI/CD Tools" />
+    <img src="https://skillicons.dev/icons?i=git,githubactions" alt="Herramientas CI/CD" />
   </a>
 </p>
 
-### Tools
+### Herramientas
 
 <p align="center">
   <a href="https://github.com/ErickLopezDev">
-    <img src="https://skillicons.dev/icons?i=aws,linux,bash,dotnet,python,go,typescript,nodejs,vscode,neovim" alt="Cloud & Development Tools" />
+    <img src="https://skillicons.dev/icons?i=linux,bash,vscode,neovim" alt="Herramientas de Nube y Desarrollo" />
   </a>
 </p>
 
-</td>
-</tr>
+ </td>
+ </tr>
 </table>
 
 ---
 
-*"Automate everything, scale securely, and keep learning."*
+## Lenguajes de Programación
 
+<p align="center">
+  <a href="https://github.com/ErickLopezDev">
+    <img src="https://skillicons.dev/icons?i=dotnet,python,go,typescript,nodejs" alt="Lenguajes de Programación" />
+  </a>
+</p>
+
+---
+
+*"Automatiza todo, escala de forma segura y sigue aprendiendo."*
