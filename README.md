@@ -56,7 +56,7 @@ y fortalecer la **Seguridad en la Nube** y la **Confiabilidad de Datos** en toda
 
 <table>
 <tr>
-<td width="50%" valign="top">
+<td width="33%" valign="top">
 
 ### Observabilidad
 
@@ -74,6 +74,9 @@ y fortalecer la **Seguridad en la Nube** y la **Confiabilidad de Datos** en toda
   </a>
 </p>
 
+</td>
+<td width="33%" valign="top">
+
 ### Infraestructura
 
 <p align="center">
@@ -82,9 +85,6 @@ y fortalecer la **Seguridad en la Nube** y la **Confiabilidad de Datos** en toda
   </a>
 </p>
 
-</td>
-<td width="50%" valign="top">
-
 ### Contenedorización
 
 <p align="center">
@@ -92,6 +92,9 @@ y fortalecer la **Seguridad en la Nube** y la **Confiabilidad de Datos** en toda
     <img src="https://skillicons.dev/icons?i=docker,kubernetes" alt="Herramientas de Contenedorización" />
   </a>
 </p>
+
+</td>
+<td width="33%" valign="top">
 
 ### CI/CD
 
@@ -109,8 +112,8 @@ y fortalecer la **Seguridad en la Nube** y la **Confiabilidad de Datos** en toda
   </a>
 </p>
 
- </td>
- </tr>
+</td>
+</tr>
 </table>
 
 ---
