@@ -115,7 +115,7 @@ y fortalecer la **Seguridad en la Nube** y la **Confiabilidad de Datos** en toda
 </td>
 <td width="25%" valign="top">
 
-### Lenguajes de Programación
+### Desarrollo
 
 <p align="center">
   <a href="https://github.com/ErickLopezDev">
