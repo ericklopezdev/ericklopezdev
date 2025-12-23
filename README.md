@@ -119,7 +119,13 @@ y fortalecer la **Seguridad en la Nube** y la **Confiabilidad de Datos** en toda
 
 <p align="center">
   <a href="https://github.com/ErickLopezDev">
-    <img src="https://skillicons.dev/icons?i=dotnet,python,go,typescript,nodejs" alt="Lenguajes de Programación" />
+    <img src="https://skillicons.dev/icons?i=dotnet,python,go" alt="Lenguajes de Programación" />
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://github.com/ErickLopezDev">
+    <img src="https://skillicons.dev/icons?i=typescript,nodejs" alt="Lenguajes de Programación" />
   </a>
 </p>
 
