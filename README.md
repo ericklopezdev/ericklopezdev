@@ -56,7 +56,7 @@ y fortalecer la **Seguridad en la Nube** y la **Confiabilidad de Datos** en toda
 
 <table>
 <tr>
-<td width="33%" valign="top">
+<td width="25%" valign="top">
 
 ### Observabilidad
 
@@ -75,7 +75,7 @@ y fortalecer la **Seguridad en la Nube** y la **Confiabilidad de Datos** en toda
 </p>
 
 </td>
-<td width="33%" valign="top">
+<td width="25%" valign="top">
 
 ### Infraestructura
 
@@ -94,7 +94,7 @@ y fortalecer la **Seguridad en la Nube** y la **Confiabilidad de Datos** en toda
 </p>
 
 </td>
-<td width="33%" valign="top">
+<td width="25%" valign="top">
 
 ### CI/CD
 
@@ -113,18 +113,19 @@ y fortalecer la **Seguridad en la Nube** y la **Confiabilidad de Datos** en toda
 </p>
 
 </td>
-</tr>
-</table>
+<td width="25%" valign="top">
 
----
-
-## Lenguajes de Programación
+### Lenguajes de Programación
 
 <p align="center">
   <a href="https://github.com/ErickLopezDev">
     <img src="https://skillicons.dev/icons?i=dotnet,python,go,typescript,nodejs" alt="Lenguajes de Programación" />
   </a>
 </p>
+
+</td>
+</tr>
+</table>
 
 ---
 
