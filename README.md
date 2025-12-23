@@ -66,18 +66,7 @@ and strengthen **Cloud Security** and **Data Reliability** across deployments.
   </a>
 </p>
 
-### Languages & Development
-
-<p align="center">
-  <a href="https://github.com/ErickLopezDev">
-    <img src="https://skillicons.dev/icons?i=dotnet,python,go,typescript,nodejs" alt="Programming Languages & Frameworks" />
-  </a>
-</p>
-
-</td>
-<td width="50%" valign="top">
-
-### Services
+### Persistency
 
 <p align="center">
   <a href="https://github.com/ErickLopezDev">
@@ -85,11 +74,38 @@ and strengthen **Cloud Security** and **Data Reliability** across deployments.
   </a>
 </p>
 
+### Infrastructure
+
+<p align="center">
+  <a href="https://github.com/ErickLopezDev">
+    <img src="https://skillicons.dev/icons?i=terraform,ansible" alt="Infrastructure Tools" />
+  </a>
+</p>
+
+</td>
+<td width="50%" valign="top">
+
+### Containerization
+
+<p align="center">
+  <a href="https://github.com/ErickLopezDev">
+    <img src="https://skillicons.dev/icons?i=docker,kubernetes" alt="Containerization Tools" />
+  </a>
+</p>
+
+### CI/CD
+
+<p align="center">
+  <a href="https://github.com/ErickLopezDev">
+    <img src="https://skillicons.dev/icons?i=git,githubactions" alt="CI/CD Tools" />
+  </a>
+</p>
+
 ### Tools
 
 <p align="center">
   <a href="https://github.com/ErickLopezDev">
-    <img src="https://skillicons.dev/icons?i=aws,terraform,ansible,docker,kubernetes,linux,bash,git,githubactions,vscode,neovim" alt="Cloud & DevOps Tools" />
+    <img src="https://skillicons.dev/icons?i=aws,linux,bash,dotnet,python,go,typescript,nodejs,vscode,neovim" alt="Cloud & Development Tools" />
   </a>
 </p>
 
