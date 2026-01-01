@@ -1,8 +1,7 @@
 <h1 align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Iosevka&weight=900&size=40&pause=1000&color=7D52DF&background=27141400&center=true&vCenter=true&width=720&height=80&lines=¡Hola!;Soy+Erick+López;Ingeniero+de+Seguridad+en+la+Nube+y+Automatización" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Iosevka&weight=900&size=40&pause=1000&color=7D52DF&background=27141400&center=true&vCenter=true&width=720&height=80&lines=¡Hola!;Soy+Erick+López;Backend+Developer;Cloud+y+Seguridad" alt="Typing SVG" />
 </h1>
 
-## Conéctate conmigo
 <div align="center"> 
   <a href="mailto:ericklopez.dev@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
