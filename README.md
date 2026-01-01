@@ -2,15 +2,6 @@
 <img src="https://readme-typing-svg.herokuapp.com?font=Iosevka&weight=900&size=40&pause=1000&color=7D52DF&background=27141400&center=true&vCenter=true&width=720&height=80&lines=¡Hola!;Soy+Erick+López;Ingeniero+de+Seguridad+en+la+Nube+y+Automatización" alt="Typing SVG" />
 </h1>
 
-<h3 align="center">Un apasionado de la Seguridad en la Nube y Automatización de Perú 🇵🇪</h3>
-
-* Enfocado en **Arquitectura en la Nube**, **Automatización** y **Seguridad**.  
-* Experimentado en la construcción de sistemas **escalables**, **seguros** y **resistentes**.  
-* Apasionado por **pipelines CI/CD**, **Infraestructura como Código** y **Automatización de Datos**.  
-* Aprendiendo continuamente sobre **Kubernetes**, **AWS**, **Azure**, **GCP** y **pipelines de datos modernos**.  
-
----
-
 ## Conéctate conmigo
 <div align="center"> 
   <a href="mailto:ericklopez.dev@gmail.com">
