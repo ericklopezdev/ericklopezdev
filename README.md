@@ -1,5 +1,5 @@
 <h1 align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Iosevka&weight=900&size=40&pause=1000&color=7D52DF&background=27141400&center=true&vCenter=true&width=720&height=80&lines=¡Hola!;Soy+Erick+López;Backend+Developer;Cloud+y+Seguridad" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Iosevka&weight=900&size=40&pause=1000&color=7D52DF&background=27141400&center=true&vCenter=true&width=720&height=80&lines=Hi!;I'm+Erick+López;Platform+Engineer;Cloud+and+Security" alt="Typing SVG" />
 </h1>
 
 <div align="center"> 
@@ -20,21 +20,24 @@
 <tr>
 <td width="50%" valign="top">
 
-## Sobre mí
+## About Me
 
-Ingeniero de Sistemas enfocado en **Infraestructura en la Nube**, **Automatización** y **Seguridad**.  
-Apasionado por construir sistemas **confiables**, **escalables** y **bien arquitectados**.  
-Mi objetivo es mejorar procesos mediante **Infraestructura como Código**, automatizar **pipelines CI/CD**,  
-y fortalecer la **Seguridad en la Nube** y la **Confiabilidad de Datos** en todas las implementaciones.  
+Systems Engineer with experience in **Web Development** and a passion for **Operating Systems** and **Networks**.  
+Currently focused on **Platform Engineering** and **Cloud Security**, building reliable, scalable, and well-architected systems.
+
+My goal is to improve processes through **Infrastructure as Code**, automate **CI/CD pipelines**, and strengthen **Cloud Security** and **Data Reliability** in all implementations.
 
 </td>
 <td width="50%" valign="top">
 
-## 🎓 Certificaciones
-- **AWS Certified Cloud Practitioner** *(en progreso)*  
-- **HashiCorp Terraform Associate** *(planeado)*  
-- **Microsoft AZ-900: Fundamentals** *(planeado)*  
-- **Linux Foundation Certified System Administrator (LFCS)** *(en progreso)*  
+## 🎓 Certifications
+
+- **AWS Cloud Quest: Cloud Solutions Architect** (2026)
+- **AWS Well-Architected Proficient** (2026)
+- **AWS Cloud Quest: Cloud Practitioner** (2026)
+- **AWS Knowledge: Cloud Essentials** (2026)
+- **Red Hat: RH104 - RHA** (2025)
+- **NDG Linux Essentials** (2025)
 
 </td>
 </tr>
@@ -42,87 +45,25 @@ y fortalecer la **Seguridad en la Nube** y la **Confiabilidad de Datos** en toda
 
 ---
 
-## Habilidades
+## Skills
 
-<table>
-<tr>
-<td width="25%" valign="top">
+### Cloud & Infrastructure
 
-### Observabilidad
+| Cloud | IaC | Containers |
+|:-----:|:---:|:----------:|
+| <img src="https://skillicons.dev/icons?i=aws,azure,gcp" /> | <img src="https://skillicons.dev/icons?i=terraform,ansible" /> | <img src="https://skillicons.dev/icons?i=docker,kubernetes" /> |
 
-<p align="center">
-  <a href="https://github.com/ErickLopezDev">
-    <img src="https://skillicons.dev/icons?i=prometheus,grafana" alt="Herramientas de Observabilidad" />
-  </a>
-</p>
+### Systems & DevOps
 
-### Bases de Datos
+| Operating Systems | CI/CD | Observability |
+|:-----------------:|:-----:|:-------------:|
+| <img src="https://skillicons.dev/icons?i=linux,windows" /> | <img src="https://skillicons.dev/icons?i=git,githubactions,jenkins,gitlab" /> | <img src="https://skillicons.dev/icons?i=prometheus,grafana" /> |
 
-<p align="center">
-  <a href="https://github.com/ErickLopezDev">
-    <img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb,redis" alt="Bases de Datos y Servicios" />
-  </a>
-</p>
+### Development
 
-</td>
-<td width="25%" valign="top">
+| Languages | Tools |
+|:---------:|:-----:|
+| <img src="https://skillicons.dev/icons?i=python,go,typescript" /> | <img src="https://skillicons.dev/icons?i=bash,neovim" /> |
 
-### Infraestructura
 
-<p align="center">
-  <a href="https://github.com/ErickLopezDev">
-    <img src="https://skillicons.dev/icons?i=terraform,ansible,aws" alt="Herramientas de Infraestructura" />
-  </a>
-</p>
-
-### Contenedorización
-
-<p align="center">
-  <a href="https://github.com/ErickLopezDev">
-    <img src="https://skillicons.dev/icons?i=docker,kubernetes" alt="Herramientas de Contenedorización" />
-  </a>
-</p>
-
-</td>
-<td width="25%" valign="top">
-
-### CI/CD
-
-<p align="center">
-  <a href="https://github.com/ErickLopezDev">
-    <img src="https://skillicons.dev/icons?i=git,githubactions" alt="Herramientas CI/CD" />
-  </a>
-</p>
-
-### Herramientas
-
-<p align="center">
-  <a href="https://github.com/ErickLopezDev">
-    <img src="https://skillicons.dev/icons?i=linux,bash,vscode,neovim" alt="Herramientas de Nube y Desarrollo" />
-  </a>
-</p>
-
-</td>
-<td width="25%" valign="top">
-
-### Desarrollo
-
-<p align="center">
-  <a href="https://github.com/ErickLopezDev">
-    <img src="https://skillicons.dev/icons?i=dotnet,python,go" alt="Lenguajes de Programación" />
-  </a>
-</p>
-
-<p align="center">
-  <a href="https://github.com/ErickLopezDev">
-    <img src="https://skillicons.dev/icons?i=typescript,nodejs" alt="Lenguajes de Programación" />
-  </a>
-</p>
-
-</td>
-</tr>
-</table>
-
----
-
-*"Automatiza todo, escala de forma segura y sigue aprendiendo."*
+*"Automate everything, scale securely, and keep learning."*
