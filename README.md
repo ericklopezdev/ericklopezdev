@@ -51,13 +51,13 @@ My goal is to improve processes through **Infrastructure as Code**, automate **C
 
 | Cloud | IaC | Containers |
 |:-----:|:---:|:----------:|
-| <img src="https://skillicons.dev/icons?i=aws,azure,gcp" /> | <img src="https://skillicons.dev/icons?i=terraform,ansible" /> | <img src="https://skillicons.dev/icons?i=docker,kubernetes" /> |
+| <img src="https://skillicons.dev/icons?i=aws,azure" /> | <img src="https://skillicons.dev/icons?i=terraform,ansible" /> | <img src="https://skillicons.dev/icons?i=docker,kubernetes" /> |
 
 ### Systems & DevOps
 
 | Operating Systems | CI/CD | Observability |
 |:-----------------:|:-----:|:-------------:|
-| <img src="https://skillicons.dev/icons?i=linux,windows" /> | <img src="https://skillicons.dev/icons?i=git,githubactions,jenkins,gitlab" /> | <img src="https://skillicons.dev/icons?i=prometheus,grafana" /> |
+| <img src="https://skillicons.dev/icons?i=linux,windows" /> | <img src="https://skillicons.dev/icons?i=git,githubactions,gitlab" /> | <img src="https://skillicons.dev/icons?i=prometheus,grafana" /> |
 
 ### Development
 
